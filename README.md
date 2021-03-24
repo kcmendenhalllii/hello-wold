@@ -9,4 +9,6 @@ I am Ken Mendenhall<br>
   
  This will be a running record of things that change so I can try-out git.
  
- Now to try a direct Pull
+ Now to try a direct Pull.
+ 
+ One more change to get the hanmg of it!
