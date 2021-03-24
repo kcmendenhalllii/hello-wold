@@ -8,3 +8,5 @@ I am Ken Mendenhall<br>
   Thanks for listening
   
  This will be a running record of things that change so i can try-out git.
+ 
+ Now to try a direct Pull
