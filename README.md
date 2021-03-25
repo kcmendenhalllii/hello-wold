@@ -17,6 +17,6 @@ One more change to get the hang of it! And another edit because I fudged it.<br>
  
  <h1>Git setup from Remote. </h1>
  
- This is an attempt at pushing edits from local repository to Github for learning
+This is an attempt at pushing edits from local repository to Github for learning.
 From Now on this will be the dumping ground for further test commits
  <hr>
