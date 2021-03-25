@@ -11,4 +11,12 @@ I am Ken Mendenhall<br>
  
  Now to try a direct Pull.
  
- One more change to get the hang of it! And another edit because I fudged it.
+ One more change to get the hang of it! And another edit because I fudged it.<br><br>
+ <hr>
+ 
+ 
+ <h1>Git setup from Remote. </h1>
+ 
+ This is an attempt at pushing edits from local repository to Github for learning
+
+ <hr>
