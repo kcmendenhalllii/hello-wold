@@ -1,0 +1,13 @@
+{
+    "name": "Hello-World Workflow",
+    "description": "NuLytix CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
