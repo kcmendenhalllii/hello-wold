@@ -1,0 +1,62 @@
+<!-- NuLytix Home-Page-->
+
+<!DOCTYPE html>
+<html lang = "en-US">
+
+<head>
+<meta charset="ISO-8859-1" name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="masterformatter.css">
+<title>NuLytix: 4Site</title>
+</head>
+
+<header>
+	<h2></h2>
+</header>
+
+
+<body>
+	<div class="navbar">
+		<nav>
+			<ul>
+				<li><a target="_self" href="C:\Users\kenus\eclipse-workspace\MyWebProject\src\main\webapp\client_html\index.html">
+					<img alt="Home" src="C:\Users\kenus\eclipse-workspace\MyWebProject\img\NuLytix_Logo.PNG" height="50" width="60"></a></li>
+				<li><a class="active" href="#Projects">Updates</a></li>
+				<li><a class="active" href="#Contact">Contact</a></li>
+				<li><a class="active" href="C:\Users\kenus\eclipse-workspace\MyWebProject\src\main\webapp\client_html\about.html">About Us</a></li>
+			</ul>
+		</nav>
+	</div>
+
+	<script>
+		window.onscroll = function() {myFunction()};
+		
+		var navbar = document.getElementById("navbar");
+		var sticky = navbar.offsetTop;
+		
+		function myFunction() {
+		  if (window.pageYOffset >= sticky) {
+		    navbar.classList.add("sticky")
+		  } else {
+		    navbar.classList.remove("sticky");
+		  }
+		}
+	</script>
+	
+	
+	
+</body>
+
+<footer>
+	<hr>
+	<address>
+		About the Author:<br>
+		Kenneth Mendenhall<br>
+		2952 Birchfield Dr.<br>
+		Columbus, GA 31906<br>
+		Phone: 907-744-5667<br>
+		Email: <a href="mailto: kcmendenhallii@gmail.com">kcmendenhallii@gmail.com</a><br>
+	</address>
+	<hr>
+</footer>
+
+</html>
